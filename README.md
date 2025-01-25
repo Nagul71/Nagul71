@@ -56,5 +56,8 @@ Hello! I'm **Nagul**, a Computer Science Engineer passionate about building AI-p
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> 
   </a> 
 </p>
+
+##
+
 Feel free to connect via GitHub or LinkedIn. Thank you for visiting!
 
