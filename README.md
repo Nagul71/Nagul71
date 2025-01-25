@@ -31,6 +31,12 @@ Hello! I'm **Nagul**, a Computer Science Engineer passionate about building AI-p
   <a href="https://github.com/" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
   </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
+    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="c" width="60" height="60" />
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
+    <img src="https://numpy.org/images/logo.svg" alt="c" width="60" height="60" />
+  </a>
   <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
     <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000" alt="flask" width="60" height="60" />
   </a>
@@ -55,6 +61,7 @@ Hello! I'm **Nagul**, a Computer Science Engineer passionate about building AI-p
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60" />
   </a>
+  
 </p>
 
 ##
