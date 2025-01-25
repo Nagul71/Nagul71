@@ -20,7 +20,7 @@ Hi there! I'm **Nagul**, a passionate **Computer Science Engineer** specializing
 ### 🎯 [Nexus AI](https://github.com/Nagul71/Nexus-AI)  
 An **AI-powered conversational platform** built using the MERN stack, designed to respond to both text and image-based queries. Users can save their interactions and enjoy a unique, intuitive UI.  
 
-### 🔗 [Web-Based Data Preprocessing Tool](https://github.com/Nagul71/data-preprocessing-tool)  
+### 🔗 [AI Data Cleaning Website](https://github.com/Nagul71/AI-data-Cleaning-Website)  
 A user-friendly application that lets users upload, preprocess, and download cleaned datasets, simplifying the data preparation process for analysts and developers.
 
 ### 🚌 **Public Transportation Optimization**  
