@@ -1,4 +1,4 @@
-### **AI Innovator | Full-Stack Developer**  
+## **AI Innovator | Full-Stack Developer**  
 
 Hello! I'm **Nagul**, a Computer Science Engineer passionate about building AI-powered solutions and scalable web applications. I focus on solving real-world challenges through cutting-edge technology and delivering intelligent, impactful solutions.
 
