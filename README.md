@@ -1,10 +1,4 @@
-Here’s an enhanced version of your GitHub README that adds professional design elements while keeping it concise and visually appealing. I've also included icons to represent technologies and skills in a professional manner:
-
----
-
-# Welcome to **Nagul71's GitHub Profile**  
-
-### **AI Innovator | Full-Stack Developer | Problem Solver**  
+### **AI Innovator | Full-Stack Developer**  
 
 Hello! I'm **Nagul**, a Computer Science Engineer passionate about building AI-powered solutions and scalable web applications. I focus on solving real-world challenges through cutting-edge technology and delivering intelligent, impactful solutions.
 
@@ -27,7 +21,7 @@ Hello! I'm **Nagul**, a Computer Science Engineer passionate about building AI-p
 - **[AI Data Cleaning Website](https://github.com/Nagul71/AI-data-Cleaning-Website)**  
   Simplifies data preprocessing by enabling users to upload, clean, and download datasets efficiently.
 
-- **Public Transportation Optimization**  
+- **[Public Transportation Optimization](https://github.com/NAVEENKUMAR4325/IBM-Z-Datathon---ML-model-for-Transportation)**  
   A machine learning project focused on improving public transport systems using real-time data, optimizing routes, and enhancing sustainability.
 
 ---
