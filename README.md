@@ -1,13 +1,13 @@
-## AI Innovator | Full-Stack Developer
+## **AI Innovator | Full-Stack Developer in Progress**  
 
-Hello! I'm **Nagul**, a Computer Science Engineer passionate about building AI-powered solutions and scalable web applications. I focus on solving real-world challenges through cutting-edge technology and delivering intelligent, impactful solutions.
+Hello! I'm **Nagul**, a Computer Science Engineering student with a strong interest in building AI-powered solutions and scalable web applications. My goal is to solve real-world challenges using cutting-edge technology while continually learning and growing as a developer.  
 
 ## **About Me**  
 
-🔹 **Artificial Intelligence**: Crafting adaptive, intelligent systems to drive smarter experiences.  
-🔹 **Full-Stack Development**: Specializing in **MERN Stack** to create dynamic, scalable web applications.  
-🔹 **Data Analytics**: Building tools for data preprocessing, visualization, and actionable insights.  
-🔹 **Automation**: Designing pipelines and machine learning models to streamline workflows.  
+🔹 **Artificial Intelligence**: Developing adaptive systems to create smarter, more efficient solutions.  
+🔹 **Full-Stack Development**: Skilled in **MERN Stack**, crafting dynamic and user-friendly web applications.  
+🔹 **Data Analytics**: Exploring data preprocessing, visualization, and generating actionable insights.  
+🔹 **Automation**: Learning to design workflows and machine learning models that simplify complex tasks.  
 
 ## **Featured Projects**  
 
