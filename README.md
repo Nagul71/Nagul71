@@ -32,6 +32,9 @@ Hello! I'm **Nagul**, a Computer Science Engineer passionate about building AI-p
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> 
   </a> 
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000" alt="react" width="40" height="40"/> 
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a> 
