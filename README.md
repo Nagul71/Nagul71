@@ -1,7 +1,4 @@
 ## Hi there 👋
-Here’s a suggestion for an engaging and professional **GitHub README** for your profile:
-
----
 
 # 👋 Welcome to **Nagul71's GitHub Profile**  
 
