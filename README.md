@@ -66,5 +66,5 @@ Hello! I'm **Nagul**, a Computer Science Engineer passionate about building AI-p
 
 ##
 
-*Feel free to connect via GitHub or LinkedIn. Thank you for visiting!*
+*Feel free to connect via Email, GitHub or LinkedIn. Thank you for visiting!*
 
