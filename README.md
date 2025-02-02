@@ -26,7 +26,7 @@ Hello! I'm **Nagul**, a Computer Science Engineering student with a strong inter
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" />
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="60" height="60" />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
     <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="c" width="60" height="60" />
