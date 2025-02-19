@@ -58,9 +58,7 @@ Hello! I'm **Nagul**, a Computer Science Engineering student with a strong inter
   <a href="https://www.python.org" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" />
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60" />
-  </a>
+
   
 </p>
 
