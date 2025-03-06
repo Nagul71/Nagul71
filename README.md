@@ -17,8 +17,8 @@ Hello! I'm **Nagul**, a Computer Science Engineering student with a strong inter
 - **[AI Data Cleaning Website](https://github.com/Nagul71/AI-data-Cleaning-Website)**  
   Simplifies data preprocessing by enabling users to upload, clean, and download datasets efficiently.
 
-- **[Public Transportation Optimization](https://github.com/NAVEENKUMAR4325/IBM-Z-Datathon---ML-model-for-Transportation)**  
-  A machine learning project focused on improving public transport systems using real-time data, optimizing routes, and enhancing sustainability.
+- **[ThriveX](https://github.com/Nagul71/ThriveX)**  
+  ThriveX is an AI-powered startup-investor matchmaking platform designed to simplify the funding process.
   
 ## **Technologies & Tools**  
 <p align="left">
