@@ -37,6 +37,15 @@ Hello! I'm **Nagul**, a Computer Science Engineering student with a strong inter
   <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
     <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000" alt="flask" width="60" height="60" />
   </a>
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60" />
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
+    <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" alt="flask" width="60" height="60" />
+  </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" />
+  </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" />
   </a>
@@ -49,18 +58,7 @@ Hello! I'm **Nagul**, a Computer Science Engineering student with a strong inter
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60" />
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="60" height="60" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer noopener" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60" />
-  </a>
+
 
   
 </p>
